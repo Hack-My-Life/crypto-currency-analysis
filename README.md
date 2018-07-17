@@ -9,4 +9,4 @@ The long-term aim of this project is to collect streaming financial data on a ho
 -Also required is a Quandl API-key.
 
 # Acknoweldgements 
-Special thanks goes out to the Programming4Finance YouTube channel for their tutorial on creating Monte Carlo Simulations in [Python](https://www.youtube.com/watch?v=_T0l015ecK4). 
+Special thanks goes out to the Programming4Finance YouTube channel for their [tutorial](https://www.youtube.com/watch?v=_T0l015ecK4) on creating Monte Carlo Simulations in. 
