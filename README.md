@@ -1,4 +1,4 @@
-# crypto-currency-analysis
+# Crypto-Currency Analysis
 Crypto Currency Analysis
 
 # Intro
