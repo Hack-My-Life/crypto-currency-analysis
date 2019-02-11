@@ -12,4 +12,4 @@ Dependencies
 
 Acknoweldgements
 ================
-Special thanks goes out to the Programming4Finance YouTube channel for their [tutorial](https://www.youtube.com/watch?v=_T0l015ecK4) on creating Monte Carlo Simulations in. 
+Special thanks goes out to the Programming4Finance YouTube channel for their [tutorial](https://www.youtube.com/watch?v=_T0l015ecK4) on creating Monte Carlo Simulations in Python. 
